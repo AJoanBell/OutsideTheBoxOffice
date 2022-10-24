@@ -11,7 +11,7 @@ class Cart extends React.Component {
         return(
             <div>
                 <div className="header">
-                    <p className="team-title">DAWG MOVIES</p>
+                    <p className="team-title">Outside The Box Office</p>
                 </div>
                 <div className="container">
                     <button className="home-button btn btn-primary" type="submit" onClick={(e) => this.backHome(e)}>BACK HOME <i className="fa fa-home" aria-hidden="true"></i></button>

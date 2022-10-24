@@ -28,7 +28,7 @@ class App extends React.Component {
                 <div className="container">
                     <div className="movie-header">
                         <button className=" cart btn btn-success" onClick={(e) => this.goToCart(e)}>MY CART <i className="fa fa-shopping-cart" aria-hidden="true"></i></button>
-                        <p className="team-title">DAWG MOVIES</p>
+                        <p className="team-title">Outside The Box Office</p>
                         <SearchMovie
                             searchMovie={(queryValue) => this.searchMovie(queryValue)}
                             alert={this.state.alert}
