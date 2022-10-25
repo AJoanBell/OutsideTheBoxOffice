@@ -1,50 +1,53 @@
 Project Title: Outside the Box Office
 
-Concept
+CONCEPT:
 
-.
+DESCRIPTION
 
-Motivation for creating this application was to:
+Outside the Box Office will be the online destination for classic film buffs, with blogs, trivia, quizzes, quotes, memorabilia, classic film information and film purchase ability.
 
-.
+MOTIVATION FOR DEVELOPMENT
 
-User Story: As a user
-I want to
-so that 
+Outside the Box Office was conceived from this developer's frustration to find one website destination that behaves like 'compare the market' for classic film purchases and fan hubbing.
 
-Tools and Technologies Used
+USER STORY: 
+
+AS A classic movie buff
+I WANT a website that combines searches across multiple third-party classic movie platforms and databases
+SO THAT I can access information about old films and compare classic movie products and prices in one online location.
+
+TOOLS AND TECHNOLOGIES USED
 Outside the Box Office used:
 
-HTML
-CSS
-Bootstrap
-Javascript
-Node.js
-Express.js
-Express-handlebars
-MySQL2
-Sequelize
-Dotenv
-Bcrypt
-Express-session
-Connect-session-sequelize
+• HTML
+• CSS
+• Bootstrap
+• Javascript
+• GitHub
+• VS Code
+• Googlefont API
+• Webfonts
+• Babel
+• React
+• API - the movie database (TMDB) themoviedb.org
+
+WIREFRAMES INITIAL DESIGN
 
 
-Other Concepts Used
-ES6 JavaScript features: classes and constructors
-MVC (Model-View-Controller) design pattern
-And, authentication.
+SCREENSHOTS OF FINISHED APPLICATION
 
-Screenshots of Application
 
-Access
+PRESENTATION SLIDES
+
+
+ACCESS
+
 Code Repository
-The repository where the code is saved is on Github. To access it, click here.
+The repository where the code is saved is on Github:
 
 Live Application
-Our application is deployed on Heroku. To access it, click here.
+Application is deployed on GitHub: .
 
-Credits
+CREDITS
 
-Bootstrap for most of our CSS styling.
-Api credit
+This product uses the TMDB API but is not endorsed or certified by TMDB.
