@@ -36,10 +36,10 @@ WIREFRAMES INITIAL DESIGN: https://github.com/AJoanBell/OutsideTheBoxOffice/blob
 
 SCREENSHOTS OF FINISHED APPLICATION
 
+Landing Page
 
-PRESENTATION SLIDES:
 
-
+PRESENTATION SLIDES: https://github.com/AJoanBell/OutsideTheBoxOffice/blob/main/Wireframes/OutsideTheBoxOffice_presentationt.pdf
 
 ACCESS
 
