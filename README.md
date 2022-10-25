@@ -40,13 +40,14 @@ SCREENSHOTS OF FINISHED APPLICATION
 PRESENTATION SLIDES
 
 
+
 ACCESS
 
 Code Repository
-The repository where the code is saved is on Github:
+The repository where the code is saved is on Github: https://github.com/AJoanBell/OutsideTheBoxOffice/
 
 Live Application
-Application is deployed on GitHub: .
+Application is deployed on GitHub: https://ajoanbell.github.io/OutsideTheBoxOffice/
 
 CREDITS
 
