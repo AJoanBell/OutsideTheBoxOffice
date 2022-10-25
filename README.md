@@ -16,8 +16,7 @@ AS A classic movie buff
 I WANT a website that combines searches across multiple third-party classic movie platforms and databases
 SO THAT I can access information about old films and compare classic movie products and prices in one online location.
 
-TOOLS AND TECHNOLOGIES USED
-Outside the Box Office used:
+TOOLS AND TECHNOLOGIES USED:
 
 • HTML
 • CSS
