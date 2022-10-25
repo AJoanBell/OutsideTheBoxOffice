@@ -31,13 +31,13 @@ Outside the Box Office used:
 • React
 • API - the movie database (TMDB) themoviedb.org
 
-WIREFRAMES INITIAL DESIGN
+WIREFRAMES INITIAL DESIGN: https://github.com/AJoanBell/OutsideTheBoxOffice/blob/main/Wireframes/Conceptandwiresframes.pdf
 
 
 SCREENSHOTS OF FINISHED APPLICATION
 
 
-PRESENTATION SLIDES
+PRESENTATION SLIDES:
 
 
 
