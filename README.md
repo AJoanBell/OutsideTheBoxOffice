@@ -55,7 +55,7 @@ Landing Page:
 
 Shopping Cart:
 
-![Uploading IMG_1525.PNG…]()
+![IMG_1525](https://user-images.githubusercontent.com/36496885/197780459-caace315-0cea-4a63-b52e-7d885a56d3ba.PNG)
 
 
 PRESENTATION SLIDES: https://github.com/AJoanBell/OutsideTheBoxOffice/blob/main/Wireframes/OutsideTheBoxOffice_presentationt.pdf
